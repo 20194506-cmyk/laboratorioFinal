@@ -3,8 +3,8 @@
 ## Integrantes
 
 - Roberto Carlos Acevedo Hernández
-- José
-- Ernesto
+- José Eduardo Ortiz Flores
+- Ernesto Rafael Paula Castaneda
 
 ## Descripción
 
